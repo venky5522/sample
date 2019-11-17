@@ -1,0 +1,6 @@
+2019-04-03 13:45:52,605 - root - pytlogging_creatfile_store.py - INFO - 20 - creat the db
+2019-04-03 13:45:52,605 - root - pytlogging_creatfile_store.py - INFO - 20 - venkatesh
+2019-04-03 13:45:52,605 - root - pytlogging_creatfile_store.py - INFO - 20 - loki
+2019-04-03 13:46:16,724 - root - pytlogging_creatfile_store.py - INFO - 20 - reading the data from the data base
+2019-04-03 13:46:16,724 - root - pytlogging_creatfile_store.py - DEBUG - 10 - result is: {'venky': 30, 'loki': 35}
+2019-04-03 13:46:16,724 - root - pytlogging_creatfile_store.py - INFO - 20 - closing the data base

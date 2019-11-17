@@ -1,0 +1,9 @@
+2019-04-03 13:28:00,640 - __main__ - result.py - INFO - 20 - reading the data from the data base
+2019-04-03 13:28:00,640 - __main__ - result.py - INFO - 20 - closing the data base
+2019-04-03 13:28:49,150 - __main__ - result.py - INFO - 20 - reading the data from the data base
+2019-04-03 13:28:49,150 - __main__ - result.py - INFO - 20 - closing the data base
+2019-04-03 13:29:10,876 - __main__ - result.py - INFO - 20 - reading the data from the data base
+2019-04-03 13:29:10,892 - __main__ - result.py - INFO - 20 - closing the data base
+2019-04-03 13:29:45,004 - root - result.py - INFO - 20 - reading the data from the data base
+2019-04-03 13:29:45,004 - root - result.py - DEBUG - 10 - result is: {'venky': 30, 'loki': 35}
+2019-04-03 13:29:45,004 - root - result.py - INFO - 20 - closing the data base
