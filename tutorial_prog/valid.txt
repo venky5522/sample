@@ -1,0 +1,1 @@
+['babu', 'hello venkatesh b@abu', 'p%y&thon']['welc&ome#$', 'to', 'django&&*^%']['hello^&%', 'venky', 'hello']['venky#$', 'babu', 'python']['venkat', 'bangalore', 'hyderabad']
